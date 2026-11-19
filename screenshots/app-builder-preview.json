@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "(6) NORD",
+      "hasCanvas": false,
+      "bodyTextLen": 834,
+      "bodyTextHash": "20a59b5382117480ed171e889c5a2cc49ddf49ebc4e1c818287d911706762392",
+      "bodyTextPrefix": "NORD МЛ Маша КН Кирилл ДО Даша Закреплённые МЛ Маша Лебедева 18:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "(6) NORD",
+      "hasCanvas": false,
+      "bodyTextLen": 783,
+      "bodyTextHash": "844f7ac81b326e5aeb4b210154a9a2345a286848335e77e02e28bb0866e71b89",
+      "bodyTextPrefix": "NORD Все 6 Личные 3 Группы 2 Каналы 1 Непрочитанные 6 МЛ Маша КН",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
